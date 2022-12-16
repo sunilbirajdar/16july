@@ -21,9 +21,6 @@ import Utilitynew.common_;
 			common_.wait(driver, 2000);
 		}
 		
-		
-		
-		
 		public void closebrowser(WebDriver driver ) {
 			common_.wait(driver, 2000);
 			driver.close();
